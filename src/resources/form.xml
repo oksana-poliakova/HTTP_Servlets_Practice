@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form>
+    <field name="surname" type="text" label="Last name"/>
+    <field name="firstname" type="text" label="Name"/>
+    <field name="email" type="email" label="Email"/>
+    <field name="phone" type="tel" label="Phone"/>
+    <field name="city" type="text" label="City"/>
+    <field name="country" type="text" label="Country"/>
+    <submit label="Send"/>
+</form>

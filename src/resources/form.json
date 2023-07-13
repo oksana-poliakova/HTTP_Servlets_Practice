@@ -1,0 +1,39 @@
+{
+  "form": {
+    "fields": [
+      {
+        "name": "surname",
+        "type": "text",
+        "label": "Last Name"
+      },
+      {
+        "name": "firstname",
+        "type": "text",
+        "label": "First Name"
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Email"
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "label": "Phone"
+      },
+      {
+        "name": "city",
+        "type": "text",
+        "label": "City"
+      },
+      {
+        "name": "country",
+        "type": "text",
+        "label": "Country"
+      }
+    ],
+    "submit": {
+      "label": "Submit"
+    }
+  }
+}
